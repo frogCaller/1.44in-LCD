@@ -1,7 +1,7 @@
 # 1.44in-LCD
 
 <div style="display: flex; gap: 10px;">   
-    <img src="images/144in-LCD-Hat.jpeg" width="300">
+    <img src="images/writerDeck.gif" width="300">
 </div>
 
 This project uses a 1.44-inch LCD HAT with a Raspberry Pi.
