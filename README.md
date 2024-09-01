@@ -48,10 +48,6 @@ This project uses a 1.44-inch LCD HAT with a Raspberry Pi.
 
 1. Start typing with:
    - Run the script: `python3 type.py`
-
-2. More:
-   - You can edit the buttons in the code to make them do whatever you want.
-   - Modify the check_buttons() function in the script to customize the button actions according to your requirements.
    
 # Troubleshooting
 Common Issues:
